@@ -1,7 +1,7 @@
 import React from "react";
 import  PreloaderIMG from '../../../aceses/photos/279.gif'
 
-let Preloader = (props) => {
+let Preloader = () => {
     return <img src={PreloaderIMG}/>
 }
 

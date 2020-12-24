@@ -1,11 +1,37 @@
-import React from 'react'
-
-function SideBar(props) {
-    return (
-        <div className={}>
-
-        </div>
-    );
+.heders{
+    height: 50px;
+    background-color: gray;
+    border: darkgrey solid 1px;
 }
 
-export default SideBar;
+.items{
+    float: right;
+    margin-right: 100px;
+    margin-top: 10px;
+}
+
+.item{
+    padding: 20px;
+}
+.item a{
+    color: white;
+    text-decoration: none;
+}
+
+.item a.active{
+    color: gold;
+}
+
+.roulette{
+    height: 120px;
+    background-color: lightgray;
+    border: darkgrey solid 1px;
+}
+
+.roulette img{
+    float: right;
+    width: 140px;
+    border: darkgrey solid 3px;
+    padding: 2px;
+    margin-top: 20px;
+}
