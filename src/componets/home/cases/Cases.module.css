@@ -1,0 +1,25 @@
+.grid {
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    margin-top: 100px;
+    background-color: darkgray;
+    min-height: 300px;
+    border: lightgray solid 1px;
+}
+
+.grid  img{
+    margin-left: 5px;
+    width: 250px;
+    padding: 22px;
+    margin-top: 50px;
+}
+
+.disc{
+    text-align: center;
+}
+
+.grid a{
+    color: black;
+    text-decoration: none;
+}

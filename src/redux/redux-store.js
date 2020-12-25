@@ -3,11 +3,13 @@ import authReducer from "./auth-reducer";
 import thunkMiddleware from 'redux-thunk';
 import {reducer as formReduser} from 'redux-form'
 import appReducer from "./app-reduser";
+import caseReduser from "./case-reduser";
 
 
 let reducers = combineReducers({
     auth: authReducer,
     app: appReducer,
+    cases: caseReduser,
     form: formReduser,
 });
 

@@ -1,0 +1,73 @@
+@charset "UTF-8";
+.App {
+  background-color: lightcyan;
+  min-height: 1000px;
+  position: absolute;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.abs{
+  position: absolute;
+}
+.abs:nth-child(1){
+  left: 90%;
+  animation: anim 15s linear infinite;
+
+}
+.abs:nth-child(2){
+  left: 80%;
+  animation: anim 20s linear infinite;
+}
+.abs:nth-child(3){
+  left: 70%;
+  animation: anim 20s linear infinite;
+}
+.abs:nth-child(4){
+  left: 3%;
+  animation: anim 10s linear infinite;
+}
+.abs:nth-child(5){
+  left: 85%;
+  animation: anim 11s linear infinite;
+}
+.abs:nth-child(6){
+  left: 2%;
+  animation: anim 12s linear infinite;
+}
+.abs:nth-child(7){
+  left: 12%;
+  animation: anim 15s linear infinite;
+}
+.abs:nth-child(8){
+  left: 60%;
+  animation: anim 15s linear infinite;
+}
+.abs:nth-child(9){
+  left: 85%;
+  animation: anim 11s linear infinite;
+}
+.abs:nth-child(10){
+  left: 2%;
+  animation: anim 12s linear infinite;
+}
+.abs:nth-child(11){
+  left: 12%;
+  animation: anim 15s linear infinite;
+}
+.abs:nth-child(12){
+  left: 60%;
+  animation: anim 15s linear infinite;
+}
+
+@keyframes anim {
+  0%{top:-10%; transform: translateX(15px) rotate(0deg);}
+  20%{transform: translateX(-15px) rotate(45deg);}
+  40%{transform: translateX(-15px) rotate(90deg);}
+  60%{transform: translateX(15px) rotate(180deg);}
+  80%{transform: translateX(-15px) rotate(180deg);}
+  100%{top:110%; transform: translateX(-15px) rotate(225deg);}
+}

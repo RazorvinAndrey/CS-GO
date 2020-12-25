@@ -1,0 +1,16 @@
+.photo img{
+    height: 200px;
+    width: auto;
+    border: gold solid 2px;
+}
+
+.grid{
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-columns: auto 1fr;
+}
+
+.disc{
+    margin-top: 20px;
+    margin-left: 50px;
+}
