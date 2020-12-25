@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.cb4139b9.chunk.css",
-    "main.js": "/static/js/main.f0e091a8.chunk.js",
-    "main.js.map": "/static/js/main.f0e091a8.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.08d1be2f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.08d1be2f.js.map",
-    "static/js/2.4d5dbd44.chunk.js": "/static/js/2.4d5dbd44.chunk.js",
-    "static/js/2.4d5dbd44.chunk.js.map": "/static/js/2.4d5dbd44.chunk.js.map",
-    "static/js/3.b7fa7f41.chunk.js": "/static/js/3.b7fa7f41.chunk.js",
-    "static/js/3.b7fa7f41.chunk.js.map": "/static/js/3.b7fa7f41.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.cb4139b9.chunk.css.map": "/static/css/main.cb4139b9.chunk.css.map",
-    "static/js/2.4d5dbd44.chunk.js.LICENSE.txt": "/static/js/2.4d5dbd44.chunk.js.LICENSE.txt",
-    "static/media/279.0e705601.gif": "/static/media/279.0e705601.gif",
-    "static/media/counter_strike.27bf8996.jpg": "/static/media/counter_strike.27bf8996.jpg"
+    "main.css": "/CS-GO/static/css/main.cb4139b9.chunk.css",
+    "main.js": "/CS-GO/static/js/main.f0e091a8.chunk.js",
+    "main.js.map": "/CS-GO/static/js/main.f0e091a8.chunk.js.map",
+    "runtime-main.js": "/CS-GO/static/js/runtime-main.76e294fb.js",
+    "runtime-main.js.map": "/CS-GO/static/js/runtime-main.76e294fb.js.map",
+    "static/js/2.4d5dbd44.chunk.js": "/CS-GO/static/js/2.4d5dbd44.chunk.js",
+    "static/js/2.4d5dbd44.chunk.js.map": "/CS-GO/static/js/2.4d5dbd44.chunk.js.map",
+    "static/js/3.b7fa7f41.chunk.js": "/CS-GO/static/js/3.b7fa7f41.chunk.js",
+    "static/js/3.b7fa7f41.chunk.js.map": "/CS-GO/static/js/3.b7fa7f41.chunk.js.map",
+    "index.html": "/CS-GO/index.html",
+    "static/css/main.cb4139b9.chunk.css.map": "/CS-GO/static/css/main.cb4139b9.chunk.css.map",
+    "static/js/2.4d5dbd44.chunk.js.LICENSE.txt": "/CS-GO/static/js/2.4d5dbd44.chunk.js.LICENSE.txt",
+    "static/media/279.0e705601.gif": "/CS-GO/static/media/279.0e705601.gif",
+    "static/media/counter_strike.27bf8996.jpg": "/CS-GO/static/media/counter_strike.27bf8996.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.08d1be2f.js",
+    "static/js/runtime-main.76e294fb.js",
     "static/js/2.4d5dbd44.chunk.js",
     "static/css/main.cb4139b9.chunk.css",
     "static/js/main.f0e091a8.chunk.js"
