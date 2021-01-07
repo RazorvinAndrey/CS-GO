@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/CS-GO/static/css/main.cb4139b9.chunk.css",
-    "main.js": "/CS-GO/static/js/main.f0e091a8.chunk.js",
-    "main.js.map": "/CS-GO/static/js/main.f0e091a8.chunk.js.map",
-    "runtime-main.js": "/CS-GO/static/js/runtime-main.76e294fb.js",
-    "runtime-main.js.map": "/CS-GO/static/js/runtime-main.76e294fb.js.map",
-    "static/js/2.4d5dbd44.chunk.js": "/CS-GO/static/js/2.4d5dbd44.chunk.js",
-    "static/js/2.4d5dbd44.chunk.js.map": "/CS-GO/static/js/2.4d5dbd44.chunk.js.map",
-    "static/js/3.b7fa7f41.chunk.js": "/CS-GO/static/js/3.b7fa7f41.chunk.js",
-    "static/js/3.b7fa7f41.chunk.js.map": "/CS-GO/static/js/3.b7fa7f41.chunk.js.map",
+    "main.css": "/CS-GO/static/css/main.00e2aa2f.chunk.css",
+    "main.js": "/CS-GO/static/js/main.d9d99b01.chunk.js",
+    "main.js.map": "/CS-GO/static/js/main.d9d99b01.chunk.js.map",
+    "runtime-main.js": "/CS-GO/static/js/runtime-main.098d1e36.js",
+    "runtime-main.js.map": "/CS-GO/static/js/runtime-main.098d1e36.js.map",
+    "static/js/2.5803faae.chunk.js": "/CS-GO/static/js/2.5803faae.chunk.js",
+    "static/js/2.5803faae.chunk.js.map": "/CS-GO/static/js/2.5803faae.chunk.js.map",
+    "static/js/3.0a2c08f8.chunk.js": "/CS-GO/static/js/3.0a2c08f8.chunk.js",
+    "static/js/3.0a2c08f8.chunk.js.map": "/CS-GO/static/js/3.0a2c08f8.chunk.js.map",
     "index.html": "/CS-GO/index.html",
-    "static/css/main.cb4139b9.chunk.css.map": "/CS-GO/static/css/main.cb4139b9.chunk.css.map",
-    "static/js/2.4d5dbd44.chunk.js.LICENSE.txt": "/CS-GO/static/js/2.4d5dbd44.chunk.js.LICENSE.txt",
+    "static/css/main.00e2aa2f.chunk.css.map": "/CS-GO/static/css/main.00e2aa2f.chunk.css.map",
+    "static/js/2.5803faae.chunk.js.LICENSE.txt": "/CS-GO/static/js/2.5803faae.chunk.js.LICENSE.txt",
     "static/media/279.0e705601.gif": "/CS-GO/static/media/279.0e705601.gif",
     "static/media/counter_strike.27bf8996.jpg": "/CS-GO/static/media/counter_strike.27bf8996.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.76e294fb.js",
-    "static/js/2.4d5dbd44.chunk.js",
-    "static/css/main.cb4139b9.chunk.css",
-    "static/js/main.f0e091a8.chunk.js"
+    "static/js/runtime-main.098d1e36.js",
+    "static/js/2.5803faae.chunk.js",
+    "static/css/main.00e2aa2f.chunk.css",
+    "static/js/main.d9d99b01.chunk.js"
   ]
 }
