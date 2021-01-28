@@ -1,24 +1,32 @@
 {
   "files": {
-    "main.css": "/CS-GO/static/css/main.00e2aa2f.chunk.css",
-    "main.js": "/CS-GO/static/js/main.d9d99b01.chunk.js",
-    "main.js.map": "/CS-GO/static/js/main.d9d99b01.chunk.js.map",
-    "runtime-main.js": "/CS-GO/static/js/runtime-main.098d1e36.js",
-    "runtime-main.js.map": "/CS-GO/static/js/runtime-main.098d1e36.js.map",
-    "static/js/2.5803faae.chunk.js": "/CS-GO/static/js/2.5803faae.chunk.js",
-    "static/js/2.5803faae.chunk.js.map": "/CS-GO/static/js/2.5803faae.chunk.js.map",
-    "static/js/3.0a2c08f8.chunk.js": "/CS-GO/static/js/3.0a2c08f8.chunk.js",
-    "static/js/3.0a2c08f8.chunk.js.map": "/CS-GO/static/js/3.0a2c08f8.chunk.js.map",
+    "main.css": "/CS-GO/static/css/main.3b20b910.chunk.css",
+    "main.js": "/CS-GO/static/js/main.79582308.chunk.js",
+    "main.js.map": "/CS-GO/static/js/main.79582308.chunk.js.map",
+    "runtime-main.js": "/CS-GO/static/js/runtime-main.a0461c58.js",
+    "runtime-main.js.map": "/CS-GO/static/js/runtime-main.a0461c58.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/CS-GO/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.523e04e0.chunk.js": "/CS-GO/static/js/2.523e04e0.chunk.js",
+    "static/js/2.523e04e0.chunk.js.map": "/CS-GO/static/js/2.523e04e0.chunk.js.map",
+    "static/js/3.0b4d061e.chunk.js": "/CS-GO/static/js/3.0b4d061e.chunk.js",
+    "static/js/3.0b4d061e.chunk.js.map": "/CS-GO/static/js/3.0b4d061e.chunk.js.map",
     "index.html": "/CS-GO/index.html",
-    "static/css/main.00e2aa2f.chunk.css.map": "/CS-GO/static/css/main.00e2aa2f.chunk.css.map",
-    "static/js/2.5803faae.chunk.js.LICENSE.txt": "/CS-GO/static/js/2.5803faae.chunk.js.LICENSE.txt",
-    "static/media/279.0e705601.gif": "/CS-GO/static/media/279.0e705601.gif",
-    "static/media/counter_strike.27bf8996.jpg": "/CS-GO/static/media/counter_strike.27bf8996.jpg"
+    "static/css/2.20aa2d7b.chunk.css.map": "/CS-GO/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.3b20b910.chunk.css.map": "/CS-GO/static/css/main.3b20b910.chunk.css.map",
+    "static/js/2.523e04e0.chunk.js.LICENSE.txt": "/CS-GO/static/js/2.523e04e0.chunk.js.LICENSE.txt",
+    "static/media/CSGO_base_weapon_p90.396e722b.png": "/CS-GO/static/media/CSGO_base_weapon_p90.396e722b.png",
+    "static/media/Mag7.bf7a0135.png": "/CS-GO/static/media/Mag7.bf7a0135.png",
+    "static/media/Ump45go.e3da42f0.png": "/CS-GO/static/media/Ump45go.e3da42f0.png",
+    "static/media/counter_strike.27bf8996.jpg": "/CS-GO/static/media/counter_strike.27bf8996.jpg",
+    "static/media/slider_1.1f13fb9b.jpg": "/CS-GO/static/media/slider_1.1f13fb9b.jpg",
+    "static/media/slider_2.ad915087.jpg": "/CS-GO/static/media/slider_2.ad915087.jpg",
+    "static/media/slider_3.875f8550.jpg": "/CS-GO/static/media/slider_3.875f8550.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.098d1e36.js",
-    "static/js/2.5803faae.chunk.js",
-    "static/css/main.00e2aa2f.chunk.css",
-    "static/js/main.d9d99b01.chunk.js"
+    "static/js/runtime-main.a0461c58.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.523e04e0.chunk.js",
+    "static/css/main.3b20b910.chunk.css",
+    "static/js/main.79582308.chunk.js"
   ]
 }
